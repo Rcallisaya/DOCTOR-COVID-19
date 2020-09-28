@@ -1,0 +1,77 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15dd)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   26.20.11008.4009
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.269 seconds
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Desktop\DoctorCOVID-19 INF281_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.252800 ms
+Ritmo Incrementado: 1.25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 1.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 1.75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 2.25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 2.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 2.75
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 3.25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Incrementado: 3.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ritmo Reestablecido: 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d78 -> priority: 1 
+  Thread -> id: 28b4 -> priority: 1 
